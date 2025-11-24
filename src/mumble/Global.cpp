@@ -118,7 +118,7 @@ Global::Global(const QString &qsConfigPath) {
 
 	bAllowHTML       = true;
 	uiMessageLength  = 5000;
-	uiImageLength    = 131072;
+	uiImageLength    = 1048576;
 	uiMaxUsers       = 0;
 	recordingAllowed = true;
 
